@@ -1,0 +1,20 @@
+D:\Olesya\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Olesya\paster\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Olesya\paster\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Olesya\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\ol\c#\paster\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ol\c#\paster\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ol\c#\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+D:\ol\c#\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+D:\ol\c#\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\ol\c#\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\28\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\28\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\28\paster\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\28\paster\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\олеся\учеба\ПГУ\2 курс\Инструментальные средства разработки\paster\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\олеся\учеба\ПГУ\2 курс\Инструментальные средства разработки\paster\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\олеся\учеба\ПГУ\2 курс\Инструментальные средства разработки\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\олеся\учеба\ПГУ\2 курс\Инструментальные средства разработки\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+G:\олеся\учеба\ПГУ\2 курс\Инструментальные средства разработки\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\олеся\учеба\ПГУ\2 курс\Инструментальные средства разработки\paster\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
